@@ -6,7 +6,7 @@ Prior to the selection of character race and class, it is necessary to determine
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
+Roll abilities, roll one selected ability 2d6+6, others 3d6 in order.
 
 ### Modifiers
 
@@ -61,21 +61,23 @@ OED features 3 alignment options:
 
 ### Dwarves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
+**Special Abilities**: Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
+**Starting Experience**: -2000. Dwarves start with negative 2000 experience to compensate for their increased abilities. This also represents their stubborness and conservatism slowing down their ability to learn new things.
 
 ### Elves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
+**Special Abilities**: Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and one other class.
+**Starting Experience**: -2000. Elves start with negative 2000 experience to compensate for their increased abilities. This also represents their haughtiness and conservatism impeding their ability to learn new things.
 
 ### Halflings
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
+**Ability Scores**: Strength Capped at 8. If a higher score is rolled it is discarded and replaced with 8.
+
+**Hit Points**: Halflings always use a d4 for hit points regardless of their class.
 
 ## Class
 
