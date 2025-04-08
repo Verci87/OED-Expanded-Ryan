@@ -194,8 +194,31 @@ the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, if succesful, then roll opposed Grapple (Strength) checks 
-(d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
+**Grappling**: Instead of attacking you may attempt to Grapple. Grapple is a kind of unarmed attack and goes last, after all normal weapon attacks.
+
+
+| size  | Mod |
+| --- | ---: |
+| small | -5 | 
+| medium  | 0 |
+| large | +5 |
+| larger | +5 each |
+
+*Grapple Attack PC*: (d20 + size + To Hit + Str Mod). 
+
+*Grapple Attack NPC*: (d20 + size + HD + 1/2HD). 
+
+*Grapple Defence PC*: (10 + size + To Hit + Str Mod).  
+
+*Grapple Defence NPC*: (10 + size + HD + 1/2HD). 
+
+ Roll a Grapple Attack VS opponents Grapple Defence. If attacker took damage from melee they minus the damage amount from their roll. If the attacker wins the check they make the defender immobile and can do one of the following:
+ 
+- make a normal attack with a weapon. Anything longer than a dagger is disadvantaged.
+- make an additional opposed Grapple check to throw the enemy to the ground prone. You can choose to let go or go prone with them to retain grapple.
+- drag the enemy with you on your next move if they dont break free
+
+The target must win a Grapple check on their turn to break free.
 
 **Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
 
