@@ -93,7 +93,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |-------------------------------|
-  |1       |0            |1d8    |+1       |Swim (+2 in 6); Sweep Attacks|
+  |1       |0            |1d8    |+1       |Swim (+2 in 6); Subclass|
   |2       |2,000        |2d8    |+2       ||
   |3       |4,000        |3d8    |+3       ||
   |4       |8,000        |4d8    |+4       |Choose a Feat|
@@ -106,7 +106,12 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Swim**: Fighters gain a +2 in 6 to Swim.
 
-**Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
+**Subclass**: Fighters can choose one of the following subclasses at level 1
+1.  *Warrior*
+    1. Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
+2.  *Ranger*
+    1. Heightened Senses: Rangers get a +1 in 6 bonus to surprise rolls and grant a -1 in 6 malus to enemy surprise rolls.
+    2. Pathfinder: Rangers get a +1 in 6 bonus to navigation rolls (to avoid getting lost)
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
@@ -120,8 +125,9 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
 9.  *Toughness*: The character gains +2 hit points per level.
 10. *Tracking*: Track prey on a base 4 in 6 chance.
-11. *Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
+11. ~~*Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.~~
 12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
+13. *Sweep Attacks*: Can melee attack a number of 1 HD opponents equal to their level in one round.
 
 ### Thieves
 
