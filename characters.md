@@ -108,10 +108,10 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Subclass**: Fighters can choose one of the following subclasses at level 1
 1.  *Warrior*
-    1. Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
+    - Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
 2.  *Ranger*
-    1. Heightened Senses: Rangers get a +1 in 6 bonus to surprise rolls and grant a -1 in 6 malus to enemy surprise rolls.
-    2. Pathfinder: Rangers get a +1 in 6 bonus to navigation rolls (to avoid getting lost)
+    - Heightened Senses: Rangers get a +1 in 6 bonus to surprise rolls and grant a -1 in 6 malus to enemy surprise rolls.
+    - Pathfinder: Rangers get a +1 in 6 bonus to navigation rolls (to avoid getting lost)
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
@@ -206,8 +206,6 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 ### Multi Classing
 
 **Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
-
-*Note*: Elves begin play as a member of the Wizard class and one other without needing to meet the above requirements.
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
