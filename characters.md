@@ -191,11 +191,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
-**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
+**Spellbook**: Wizards start with a spellbook containing the *read magic* spell and one additional 1st level spell which can be chosen by the player during character creation. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level.
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
+**Spell Research**: Requires 1 week per spell level and a roll of *(d20 - spell level + Wizard Level + Int Modifier ≥ 20)*. Access to a library or other resources grant a +4 to the roll.
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
@@ -205,7 +205,7 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class. 
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
@@ -219,5 +219,6 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 -   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
 -   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
 -   Thief skills can only be used in Light (Leather) armor.
+-   Only first level Wizards start with spells known. A character multiclassing into Wizard must learn spells from scrolls or found spellbooks.
 
 
