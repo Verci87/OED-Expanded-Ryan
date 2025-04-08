@@ -41,7 +41,7 @@ Weapons in OED fall into 3 categories, Light, Medium, and Heavy.
 Weapons have 5 main properties.
 
 - **Sword**: Can be drawn and used in a single round.
-- **Spear**: Can be used to attack from the 2nd rank (+5') reach)
+- **Spear**: Can be used to attack from the 2nd rank (+5') reach
 - **Axe**: +2 to hit targets in Medium/Heavy armor, or creatures with a
 tough hide (AC 5 or better)
 - **Club**: +4 to hit targets in Heavy armor, or creatures with a very
