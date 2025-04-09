@@ -54,7 +54,7 @@ alignment is generally not a strict code of conduct and instead vaguely states a
 
 ## Race
 
-**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
+**Movement**: In OED Men and Elves a base speed of 6" (30'), Dwarves move at 5" (25') and Halflings at 4" (20') per round.
 
 ### Humans
 
