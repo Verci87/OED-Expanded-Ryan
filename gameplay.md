@@ -299,9 +299,9 @@ attributes and effects have been standardized and are available in the
 
 ### Cleric Spells
 
-Clerics are not present as a class in OED but priests, religious orders and esotericists abound. Most magic in the world is done by Priests in a highly regulated fashion; Wizards are generally rare and considered unregulated and dangerous if rarely illegal.
+Clerics are not present as a class in OED but priests, religious orders and esotericists abound. Most magic in the world is done by Priests in temples in a highly regulated fashion; Wizards are generally rare and considered unregulated and dangerous.
 
-The Cleric spells still exist in the game but are treated like arcane spells in terms of the way they are learned and cast with the exception that by default they require powdered silver to cast of an amount costing (spell level x spell level x 50 silver)
+The Cleric spells still exist in the game but are treated like arcane spells in terms of the way they are learned and cast; with the exception that in addition to any other stipulated requirements, they require powdered silver as a material component which they consume; of an amount costing (spell level x spell level x 200 silver)
 
 ### 1st Level
 
