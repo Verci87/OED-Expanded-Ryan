@@ -1,4 +1,5 @@
-1st-Level Spells
+## 1st-Level Spells
+
 Charm Person: (Range: 12 inches, Duration: 1 day) This spell makes one living
 humanoid of man-size or smaller regard the caster as a trusted friend and ally. The
 caster can then give the subject orders, language-permitting.
@@ -37,7 +38,8 @@ Sleep: (Range: 12 inches, Duration: 12 turns) This spell causes a comatose slumb
 come upon several creatures. It affects 2d6 HD worth of enemy creatures. Creatures
 with the fewest HD are affected first, and only creatures with 4 HD or less are affected.
 
-2nd-Level Spells
+## 2nd-Level Spells
+
 Continual Light: (Range: 12 inches, Duration: 1 week) This spell causes an area to be
 illuminated as by daylight (12" radius globe). Optionally, it may be cast on a movable
 object and carried by a character.
@@ -111,7 +113,8 @@ or portal magically locks it. The caster can freely pass their own lock without 
 it. Otherwise, a door or object secured with wizard lock can be opened only by
 breaking it down or with a successful dispel magic or knock spell.
 
-3rd-Level Spells
+## 3rd-Level Spells
+
 Clairaudience: (Range: 6 inches, Duration: 6 turns) Clairaudience enables the caster
 to concentrate upon a nearby locale and hear as if the caster were physically there.
 Concentration is required on rounds that the user is actively sensing.
@@ -183,7 +186,8 @@ make the activity sound reasonable.
 Water Breathing: (Range: Touch, Duration: 1 day) One transmuted creature can
 breathe water freely.
 
-4th-Level Spells
+## 4th-Level Spells
+
 Charm Monster: (Range: 12 inches, Duration: 1 year) This spell makes any one living
 creature regard the caster as a trusted friend and ally. The caster can then give the
 subject orders, language-permitting. The creature gets a new save each month.
@@ -254,7 +258,8 @@ magical eye through which he or she can see from a distance. Once conjured, the
 wizard eye can travel at a speed of 12” per round, up to 24” from the caster. The eye
 can pass through cracks about the size of a mouse-hole.
 
-5th-Level Spells
+## 5th-Level Spells
+
 Animal Growth: (Range: 12 inches, Duration: 6 turns) Up to 6 normal animals in range
 grow to giant size. In most cases this provides: AC 6, MV 15, HD 4, Atk 1, Dam 2d
 (some creatures will exchange a die of damage for poison, paralysis, or blood-drain).
@@ -339,7 +344,8 @@ Wall of Stone: (Range: 6 inches, Duration: Permanent) This spell creates a wall 
 rock that merges into adjoining rock surfaces (6” × 2” or similar area, 3 feet thick). The
 wall cannot occupy the same space as a creature or another object.
 
-6th-Level Spells
+## 6th-Level Spells
+
 Antimagic Sphere: (Range: Personal, Duration: 12 turns) An invisible barrier
 surrounds and moves with the caster (2" radius globe). The space within this barrier is
 impervious to all magical effects, including attacks by breath, gaze, song, etc. It
