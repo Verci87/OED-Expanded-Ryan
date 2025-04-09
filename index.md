@@ -8,8 +8,9 @@
 6. [NPCs](npcs.md)
 7. [Rewards](rewards.md)
 8. [Monsters](monsters.md)
-9. [Traps](traps.md)
-10. [Resources](resources.md)
+9. [Spells](spells.md)
+10. [Traps](traps.md)
+11. [Resources](resources.md)
 
 - [Appendix A: Additional Material](x-additional-material.md)
 - [Appendix B: Campaign Material](x-campaign-material.md)
