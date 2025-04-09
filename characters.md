@@ -57,6 +57,8 @@ alignment is generally not a strict code of conduct and instead vaguely states a
 
 **Movement**: In OED Men and Elves a base speed of 6" (30'), Dwarves move at 5" (25') and Halflings at 4" (20') per round.
 
+**Vision**: in OEDr player character races do not have any special dark vision. This makes the dark far scarier, light sources more precious as well as a target for monsters, and creates a much more distinct demarcation between surface dwellers and the monsters of the deep.
+
 ### Humans
 
 **Class Options**: Can be a member of any class, and advance to an unlimited level.
