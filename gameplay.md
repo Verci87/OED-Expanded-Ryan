@@ -230,7 +230,7 @@ character is Dead. Success results in the character stabilizing at 0HP,
 waking in 1d6 turns, in an incapacitated state. The character must roll on the lingering injury table.
 Any healing (returning the character to 1 HP) will restore normal activity.
 
-**Natural Healing**: Creatures regain 1 hit point per full day of rest outside of a safe town.
+**Natural Healing**: Creatures regain 1 hit point per full day of rest outside of a safe town (eg. while in the wilderness or dungeon).
 
 Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con *Bonus* per full day of rest and comfort in a safe town. The creature can not undergo other meaningful activities.
 
@@ -246,6 +246,8 @@ Priests and some wizards do have healing magic but all priestly magic has a cost
 **Character Death**: Players can take control of a retainer or henchman for the remainder of the session.
 
 ## Spells
+
+### Wizard Spells
 
 OED makes the below spells available to the Wizard class. Spell
 attributes and effects have been standardized and are available in the
@@ -295,3 +297,49 @@ attributes and effects have been standardized and are available in the
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
 
 
+### Cleric Spells
+
+Clerics are not present as a class in OED but priests, religious orders and esotericists abound. Most magic in the world is done by Priests in a highly regulated fashion; Wizards are generally rare and considered unregulated and dangerous if rarely illegal.
+
+The Cleric spells still exist in the game but are treated like arcane spells in terms of the way they are learned and cast with the exception that by default they require powdered silver to cast of an amount costing (spell level x spell level x 50 silver)
+
+### 1st Level
+
+1. Cure Light Wounds
+2. Purify Food & Water
+3. Detect Magic
+4. Detect Evil
+5. Protection/Evil
+6. Light
+
+### 2nd Level
+
+1. Find Traps
+2. Hold Person
+3. Bless
+4. Speak with Animals
+
+### 3rd Level
+
+1. Remove Curse
+2. Cure Disease
+3. Locate Object
+4. Continual Light
+
+### 4th Level
+
+1. Neutralize Poison
+2. Cure Serious Wounds
+3. Protection/Evil, 10'r.
+4. Turn sticks to snakes
+5. Speak with plants
+6. Create Water
+
+### 5th Level
+
+1. Dispell Evil
+2. Raise Dead
+3. Commune
+4. Quest
+5. Insect Plague
+6. Create Food
