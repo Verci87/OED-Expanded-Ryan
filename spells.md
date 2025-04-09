@@ -1,3 +1,5 @@
+# Wizard Spells
+
 ## 1st-Level Spells
 
 **Charm Person:** (Range: 12 inches, Duration: 1 day) This spell makes one living
@@ -425,3 +427,76 @@ vs. spells is required to avoid taking the personality (i.e., become a DM-run NP
 creature to its normal state. The spell can also convert a mass of stone into a fleshy
 substance; such flesh is inert unless a life force or magical energy is available. The
 caster can affect a mass up to 12 feet long and 3 feet in diameter.
+
+
+# Cleric Spells
+
+## 1st Level:
+
+**Cure Light Wounds:** During the course of one full turn this spell will remove hits from a wounded character (including elves, dwarves, etc.). A die is rolled, one pip added, and the resultant total subtracted from the hits points the character has taken. Thus from 2-7 hit points of damage can be removed.
+
+**Purify Food & Water:** This spell will make spoiled or poisoned food and water usable. The quantity subject to a single spell is approximately that which would serve a dozen people.
+
+**Detect Magic:** This spell is the same as that for Magic-Users.
+
+**Detect Evil:** This spell is the same as that for Magic-Users except that it has a duration of 6 turns and a range of 12".
+
+**Protection from Evil:** This spell is the same as that for Magic-Users except that it lasts for 12 turns.
+
+**Light:** This spell is the same as that for Magic-Users
+
+## 2nd Level
+
+**Find Traps:** By means of this spell the Cleric will locate any mechanical or magical traps within a radius of 3". The spell lasts 2 turns.
+
+**Hold Person:** This spell is the same as that for Magic-Users except that its duration is 9 turns and its range 18".
+
+**Bless:** During any turn the prospective recipients of a Bless spell are not in combat the Cleric may give them this benison. A blessing raises morale by +1 and also adds +1 to attack dice. The spell lasts six turns.
+
+**Speak with Animals:** This spell allows the Cleric to speak with any form of animal life, understanding what they say in reply. There is a possibility that the animal(s) spoken with will perform services for the Cleric, and they will never attack the party the Cleric is with. (The manner of handling the probabilities of action by animals is discussed in the next volume). Duration: 6 turns. Range: 3".
+
+
+## 3rd Level
+
+**Remove Curse:** This spell is the same as that for Magic-Users.
+
+**Cure Disease:** A spell which cures any form of disease. The spell is the only method to rid a character of a disease from a curse, for example.
+
+**Locate Object:** This spell is the same as that for Magic-Users, except that the base range is 9".
+
+**Continual Light:** This spell is the same as that for Magic-Users, except that the light shed is equal to full daylight.
+
+## 4th Level 
+
+**Neutralize Poison:** A spell to counter the harmful effects of poison. Note that it will not aid a character killed by poison, however. It will affect only one object. Duration: 1 turn.
+
+**Cure Serious Wounds:** This spell is like a Light Wound spell, but the effects are double, so two dice are rolled and one pip is added to each die. Therefore, from 4 to 14 hit points will be removed by this spell.
+
+**Protection from Evil, 10' radius:** This spell is the same as that for Magic-Users.
+
+**Turn Sticks to Snakes:** Anytime there are sticks nearby a Cleric can turn them into snakes, with a 50% chance that they will be poisonous. From 2-16 snakes can be conjured (roll two eight-sided dice). He can command these conjured snakes to perform as he orders. Duration: 6 turns. Range 12".
+
+**Speak with Plants:** This spell allows the Cleric to speak with all forms of plant life, understanding what they say in reply. Plants so spoken to will obey commands, of the Cleric, such as part to allow a passage and so on. This spell does not give the Cleric the power to command trees as Ents do. Duration: 6 turns. Range: 3".
+
+**Create Water:** By means of this spell the Cleric can create a supply of drinkable water sufficient for a party of a dozen men and horses for one day. The quantity doubles for every level above the 8th the Cleric has attained.
+
+## 5th Level
+
+**Dispell Evil:** Similar to a Dispell Magic spell, this allows a Cleric to dispell any evil sending or spell within a 3" radius. It functions immediately. Duration: 1 turn.
+
+**Raise Dead:** The Cleric simply points his finger, utters the incantation, and the dead person is raised. This spell works with men, elves, and dwarves only. For each level the Cleric has progressed beyond the 8th, the time limit for resurrection extends another four days. Thus, an 8th level Cleric can raise a body dead up to four days, a 9th level Cleric can raise a body dead up to eight days, and so on. Naturally, if the character's Constitution was weak, the spell will not bring him back to life. In any event raised characters must spend two game weeks time recuperating from the ordeal.
+
+**Commune:** A spell which puts the Cleric in touch with the powers "above" and asks for help in the form of answers to three questions. Communing is allowed but once each week maximum; referee's option as to making less frequent. Veracity and knowledge should be near total. Once per year a special communing should be allowed wherein the Cleric can ask double the number of questions.
+
+**Quest:** This is similar to the Geas, except that the character sent upon a Quest by the Cleric is not killed by failure to carry out the service. However, the Cleric may curse him with whatever he desires for failure, and the referee should decide if such a curse will take effect if the character ignores the Quest, basing the effectiveness of the curse on the phrasing of it and the alignment and actions of the character so cursed.
+
+**Insect Plague:** By means of this spell the Cleric calls to him a vast cloud of insects and sends them where he will, within the spell range. They will obscure vision and drive creatures with less than three hit dice off in rout. The dimensions of the Insect Plague are 36 square inches. Duration: 1 game day. Range: 48". (Note: This spell is effective only above ground.)
+
+**Create Food:** A spell with which the Cleric creates sustenance sufficient for a party of a dozen for one game day. The quantity doubles for every level above the 8th the Cleric has attained.
+
+#### Note 
+
+There are Anti-Clerics (listed below) who have similar powers to Clerics.
+Those Clerical spells underlined on the table for Cleric Spells have a reverse effect, all others functioning as noted. The chief exception is the Raise Dead spell which becomes:
+
+**The Finger of Death:** Instead of raising the dead, this spell creates a "death ray" which will kill any creature unless a saving throw is made (where applicable). Range: 12". (A Cleric-type may use this spell in a life-or-death situation, but misuse will immediately turn him into an Anti-Cleric.)
