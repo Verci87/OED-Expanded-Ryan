@@ -31,13 +31,13 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OED, ability scores do not affect XP earned.
+**Experience Points**: In OED, ability scores do not affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility in relation to humans. Calculate the XP for all each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. PCs with intelligence of at least 10 are literate in their native language and for each 2 points of intelligence thereafter are literate in 1 additional language. 
 
-**Common**:Common represents the standard Human language of the region. 
+**Common**: Common represents the standard Human language of the region. 
 
 **Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
 
@@ -50,6 +50,7 @@ OED features 3 alignment options:
 - *Neutral* beings seek a balance, or are simply disinterested.
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
+alignment is generally not a strict code of conduct and instead vaguely states a characters allegience to either human civilisation or monstrous polities.
 
 ## Race
 
@@ -63,13 +64,13 @@ OED features 3 alignment options:
 
 **Special Abilities**: Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Starting Experience**: -2000. Dwarves start with negative 2000 experience to compensate for their increased abilities. This also represents their stubborness and conservatism slowing down their ability to learn new things.
+**Experience Gain**: -20%. Dwarves earn experience points at a slower rate than humans. This compensates for thier increased abilities and also represents their stubborness and conservatism slowing down their ability to learn new things.
 
 ### Elves
 
 **Special Abilities**: Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Starting Experience**: -2000. Elves start with negative 2000 experience to compensate for their increased abilities. This also represents their haughtiness and conservatism impeding their ability to learn new things.
+**Experience Gain**: -20%. Elves earn experience points at a slower rate than humans. This compensates for thier increased abilities and also represents their haughtiness and conservatism impeding their ability to learn new things.
 
 ### Halflings
 
@@ -189,7 +190,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
   |16      |1,800,000    |11d4+5   |+8       |Spells: 5 5 5 5 5 5|
   |16+     |(+300,000)   |(+1)     |(+1/2)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
 
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
+**Spell Casting**: "Vancian" magic; 
 
 **Spellbook**: Wizards start with a spellbook containing the *read magic* spell and one additional 1st level spell which can be chosen by the player during character creation. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
