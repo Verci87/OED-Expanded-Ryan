@@ -230,9 +230,11 @@ character is Dead. Success results in the character stabilizing at 0HP,
 waking in 1d6 turns, in an incapacitated state. The character must roll on the lingering injury table.
 Any healing (returning the character to 1 HP) will restore normal activity.
 
-**Natural Healing**: Creatures regain a number of Hit Points equal to
-Level (Hit Dice) + Con *Bonus* per week of rest and comfort. The
-creature can not undergo other meaningful activities.
+**Natural Healing**: Creatures regain 1 hit point per full day of rest outside of a safe town.
+
+Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con *Bonus* per full day of rest and comfort in a safe town. The creature can not undergo other meaningful activities.
+
+Creatures regain a number of Hit Points equal to (2 x Level (Hit Dice) + Con *Bonus*) per full day of rest and comfort in a hospital (mostly found at temples of religious orders dedicated to gods of healing). The creature can not undergo other meaningful activities.
 
 **Magical Healing**: The only common source of magical healing in OED
 are potions of healing and potions of mithridate (neutralize poison)
@@ -291,3 +293,5 @@ attributes and effects have been standardized and are available in the
 - Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
 - “Man-size” creatures are those of 1 HD (base, without class levels).
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
+
+
