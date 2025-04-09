@@ -35,12 +35,13 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. PCs with intelligence of at least 10 are literate in their native language and for each 2 points of intelligence thereafter are literate in 1 additional language. 
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. 
+
+**Literacy**: PCs with intelligence of at least 10 are literate in their native language. For each 2 points of intelligence thereafter characters are literate in 1 additional language. 
 
 **Common**: Common represents the standard Human language of the region. 
 
-**Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
-
+**Alignment Languages** in OEDr we wont use alignment languages. Common is the lingua franca for both men and monsters though monsters typically speak with a heavy accent, a barely intelligible dialect or a creole.
  
 ## Alignment
 
