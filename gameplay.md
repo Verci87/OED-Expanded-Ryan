@@ -239,6 +239,8 @@ are potions of healing and potions of mithridate (neutralize poison)
 which are available from Wizards and NPC Alchemists. There is no common
 source of regeneration, resurrection, or restoration magic.
 
+Priests and some wizards do have healing magic but all priestly magic has a cost, even simple healing spells. Resurrection, restoration and regeneration magic is extremely costly, requires rare components and often requires sacrifice.
+
 **Character Death**: Players can take control of a retainer or henchman for the remainder of the session.
 
 ## Spells
