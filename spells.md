@@ -431,6 +431,8 @@ caster can affect a mass up to 12 feet long and 3 feet in diameter.
 
 # Cleric Spells
 
+these spells were already listed in [x-campaign-material\arcana obscura](#Arcana-Obscura)
+
 ## 1st Level:
 
 **Cure Light Wounds:** During the course of one full turn this spell will remove hits from a wounded character (including elves, dwarves, etc.). A die is rolled, one pip added, and the resultant total subtracted from the hits points the character has taken. Thus from 2-7 hit points of damage can be removed.
