@@ -4,9 +4,10 @@ The core mechanic of OED is the Target 20 roll as summarized below. Some
 game actions are resolved on an X in 6 chance using a d6 (see
 Adventuring).
 
-**Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC ≥ 20
-
-**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20
+**Melee Attacks**: d20 + Attack Bonus + Str Modifier vs Target AC
+~~**Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC ≥ 20~~
+**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier vs Target AC
+~~**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20~~
 
 **Saving Throws**: d20 + Level + Save Mod ≥ 20
 
