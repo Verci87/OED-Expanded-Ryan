@@ -4,52 +4,52 @@
 
 ## PLAYER’S RULES (V. 1.0.7.R)
 
-#### RACES
+#### RACES  
 
-**Humans** : Full XP gain ^2
+**Humans** : Full XP gain ^2  
 
-**Dwarves** : -20% XP gain, resist magic +4, dodge giants +4, find stone traps +1.
+**Dwarves** : -20% XP gain, resist magic +4, dodge giants +4, find stone traps +1.  
 
-**Elves** : -20% XP gain, hide in woods (4 in 6), find wood traps +1.
+**Elves** : -20% XP gain, hide in woods (4 in 6), find wood traps +1, party avoids surprise on +1 in 6.  
 
-**Halflings** : Hide in woods (4 in 6), resist magic +4, ranged attacks +4.^3
+**Halflings** : Hide in woods (4 in 6), resist magic +4, ranged attacks +4. Strength capped at 8. Hit Dice always d4. ^3^  
 
-#### CLASSES
+#### CLASSES  
 
-**Fighters** : Use heavy armor, all weapons, fighter feats; attack bonus +1, hit points d8 per level (hp +3/level after name).
+**Fighters** : Use heavy armor, all weapons, fighter feats; attack bonus +1, hit points d8 per level (hp +3/level after name).  
 
-**Thieves** : Use light armor, light weapons, thief skills; attack bonus +2/3, hit points d6 per level (hp +2/level after name).
+**Thieves** : Use light armor, light weapons, thief skills; attack bonus +2/3, hit points d6 per level (hp +2/level after name).  
 
 **Wizards** : Use no armor, dagger only, magic spells; attack bonus +1/2, hit points
-d4 per level (hp +1/level after name).^4
+d4 per level (hp +1/level after name). ^4^  
 
-#### ALIGNMENT
+#### ALIGNMENT  
 
 **Three Alignments** : Lawful, Neutral, or Chaotic. New characters should list either
-Lawful or Neutral (if Chaotic, secretly inform the DM).^5
+Lawful or Neutral (if Chaotic, secretly inform the DM).^5^  
 
 #### ABILITIES
 
 **Random Abilities** : At first level, roll one selected ability 2d6+6, others 3d6 in
-order. For starting hit dice, re-roll any results of “1” or “2”.^6
+order. For starting hit dice, re-roll any results of “1” or “2”.^6^  
 
-#### EQUIPMENT
+#### EQUIPMENT  
 
 **Starting Money** : Starting money (3d6×10) and equipment prices are in silver
 pieces. Chain mail costs 50, plate 200; a silver dagger 30, potion of healing 200,
-potion of mithridate 1000; rumors 10-60, ads for hires 100 sp each.^7
+potion of mithridate 1000; rumors 10-60, ads for hires 100 sp each.^7^  
 
-#### TARGET 20
+#### TARGET 20  
 
 **Core Mechanic** : For most combat actions, roll d20 + level + modifiers, with
-success indicated on a total of 20 or more.^8
+success indicated on a total of 20 or more.^8  
 
 
-#### ABILITY MODIFIERS
+#### ABILITY MODIFIERS  
 
 **Values** : See table to the right for standard modifiers. The
 sequence continues in each direction (1 point modifier for
-every 3 ability score points). 9
+every 3 ability score points). 9  
 
 |Score   |Modifier|
 |--------|---|
@@ -63,7 +63,7 @@ every 3 ability score points). 9
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Effects** :
+**Effects** :  
 
 - *Strength*: Melee Attacks and Melee Damage
 - *Intelligence*: Secret Door and Trap Detection
@@ -72,35 +72,35 @@ every 3 ability score points). 9
 - *Constitution*: Hit Die Rolls
 - *Charisma*: Reaction Rolls
 
-#### FIGHTER FEATS
+#### FIGHTER FEATS  
 
-**Feats** : Fighters can select one feat every 4 levels (starting at 4th) to expand their combat abilities (see the section later for available feats). When fighting 1st level (1-hit-die) opponents in melee, fighters get one attack per level.^11
+**Feats** : Fighters can select one feat every 4 levels (starting at 4th) to expand their combat abilities (see the section later for available feats). When fighting 1st level (1-hit-die) opponents in melee, fighters get one attack per level.^11  
 
-#### THIEF SKILLS
+#### THIEF SKILLS  
 
 **Skills** : Thieves have the ability to (1) open locks, (2) remove traps, (3) pick
 pockets, (4) move silently, and (5) hide in shadows. Success requires rolling d
 + level + Dex modifier, and scoring 20 or more (3 tries per target). Thieves add
 +1 to hear noise and climb wall checks, and score double damage from a silent
-attack from behind. These bonuses increment every 4 levels.^12
+attack from behind. These bonuses increment every 4 levels.^12  
 
-#### WIZARD SPELLS
+#### WIZARD SPELLS  
 
 **Spells** : Wizards start with a spellbook containing all 1st-level spells. Only one
 instance of a given spell can be memorized at a time (no duplicates). Adding a
 new spell from a book or scroll takes a roll of d20 + level + Int modifier, scoring
 20 or more, and one day per spell level (3 tries per spell). Wizards may research
 new spells at any level, craft potions & scrolls at 4th, wands & weapons at 8th, and
-any other magic items at 12th level. See book for costs.^13
+any other magic items at 12th level. See book for costs.^13  
 
-#### MOVE RATES
+#### MOVE RATES  
 
 **Scale** : One turn is 1 minute. One round is 6 seconds. One inch is 5 feet (also
-called one “pace”).^14
+called one “pace”).^14  
 
-**Encumbrance** : Gear carried is measured in stone weight. See table to the right for values.^15
+**Encumbrance** : Gear carried is measured in stone weight. See table to the right for values.^15  
 
-**Movement** : Characters can carry stone weight of up to 1/3 their Strength score at full move rate; up to 2/3 at 2/3 move rate; and up to full Strength at half move rate.^16
+**Movement** : Characters can carry stone weight of up to 1/3 their Strength score at full move rate; up to 2/3 at 2/3 move rate; and up to full Strength at half move rate.^16  
 
 | Items | Weight |
 | --- | --- |
@@ -109,9 +109,9 @@ called one “pace”).^14
 |Chain mail| 2 |
 |Plate mail| 4 |
 
-#### WEAPONS
+#### WEAPONS  
 
-See the matrix below for melee weapon damage and special effects.^17
+See the matrix below for melee weapon damage and special effects.^17  
 
 
 | Type | Light | Medium | Heavy |
@@ -120,43 +120,43 @@ See the matrix below for melee weapon damage and special effects.^17
 |Spear |Spear (1d6) |Polearm (1d8) |Lance/Pike (1d8) *|
 |Axe |Hand Axe (1d6) |Battle Axe (1d8) |Halberd (1d10)|
 |Club| Mace (1d6) |Morning Star (1d8) |Flail (1d8) **|
-
+  
 **Types** : Swords can be drawn and used in a single round. Spears can be used to
 attack from a second rank. Axes get +2 to hit targets in medium or heavy armor.
-Clubs get +4 to hit heavy armor.^18
+Clubs get +4 to hit heavy armor.^18  
 
-**Length**: The longer your weapon, the higher in initiative order you attack. Spears go before swords, swords go before axes, axes go before daggers.
+**Length**: The longer your weapon, the higher in initiative order you attack. Spears go before swords, swords go before axes, axes go before daggers.  
 
 **Sizes** : Light weapons are one-handed, and can be thrown up to 60 feet (12”).
 Medium weapons are one-handed for man-sized creatures (except polearms).
-Heavy weapons and polearms are two-handed for men.^19
+Heavy weapons and polearms are two-handed for men.^19  
 
 **Specials** : (*) Lances do double damage when used from a charging mount;
 pikes get double damage when set against such a charge. (**) Flails ignore any
-opponent shield bonuses.^20
+opponent shield bonuses.^20  
 
 **Missile Weapons** : Bows and slings fire every round; crossbows every other
 round. Attack rolls are –1 per 10 feet range. Damage is 1d6 for arrows and
-quarrels, 1d4 for sling stones.^21
-
+quarrels, 1d4 for sling stones.^21  
+  
 **Race/Class Restrictions** : Halflings can use only light or medium (two-handed)
 melee weapons, slings, shortbows, and light crossbows. Thieves are skilled in
-light melee weapons, normal swords, slings, and light crossbows.^22
+light melee weapons, normal swords, slings, and light crossbows.^22  
 
-#### COMBAT
+#### COMBAT  
 
 **Surprise** : A roll of 2 in 6 normally indicates surprise. Unseen parties (hidden,
 invisible, elven cloak) add +2. Silenced parties (motionless, undead, move
-silently) add +2. Warning (e.g., light, noise, magic detection) foils surprise.^23
+silently) add +2. Warning (e.g., light, noise, magic detection) foils surprise.^23  
 
-**Initiative** : Creatures act simultaneously. Each side declares actions and the DM resolves. Combat goes in phases; move, shoot, magic, melee. Figures must stand still to cast spells, fire missiles, or set pikes.^24
+**Initiative** : Creatures act simultaneously. Each side declares actions and the DM resolves. Combat goes in phases; move, shoot, magic, melee. Figures must stand still to cast spells, fire missiles, or set pikes.^24  
 
-**Descending AC Attacks** : Attacks are made by rolling d20 + attack bonus + AC of target and scoring 20 or more. Monsters use their hit dice for attack bonus.
+**Descending AC Attacks** : Attacks are made by rolling d20 + attack bonus + AC of target and scoring 20 or more. Monsters use their hit dice for attack bonus. 
 
-**Ascending AC Attacks** : Attacks are made by rolling d20 + attack bonus and scoring equal to or higher than the targets AC.
+**Ascending AC Attacks** : Attacks are made by rolling d20 + attack bonus and scoring equal to or higher than the targets AC.  
 
 **Saves** : Saving throws are made by rolling d20 + level +
-modifiers (see table) and scoring 20 or more.^25
+modifiers (see table) and scoring 20 or more.^25  
 
 
 |Type   | Modifier |
@@ -168,7 +168,7 @@ modifiers (see table) and scoring 20 or more.^25
 |Death  |+4 |
 
 
-#### FIGHTER FEATS
+#### FIGHTER FEATS  
 
 1. **Berserking** : Rage to gain +4 levels (hits, saves, and hit dice) for one
     melee; afterward, save vs. breath or lose ability for the day.^26
@@ -191,18 +191,18 @@ modifiers (see table) and scoring 20 or more.^25
     of choice.
 13. **Sweep Attacks** : Can melee attack a number of 1 HD opponents equal to their level in one round.
 
-#### MULTI-CLASSING
+#### MULTI-CLASSING  
 
 **Adding Classes** : To add a new class, a character needs a score of 16 or more in
-the new prime requisite, and must sacrifice F2000XP, T1200XP, W2500XP.^29
+the new prime requisite, and must sacrifice F2000XP, T1200XP, W2500XP.^29  
 
 **Experience** : After each adventure, the character applies all earned XP to a
-single class of their choice. Elves and Dwarves gain -20%. ^30
+single class of their choice. Elves and Dwarves gain -20%. ^30  
 
 **Benefits** : The multi-classed character uses the best entry for armor, weapons,
 attacks, and saves. Hit points are rolled for each class, with the highest being
 used. Fighter/wizards may cast spells in leather or chain (melee weapon in one
-hand, no shield). Some Thief skills are restricted to leather armor only.^31
+hand, no shield). Some Thief skills are restricted to leather armor only.^31  
 
 ### Original Edition Delta is compatible with Original
 
