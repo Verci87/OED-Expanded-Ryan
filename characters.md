@@ -6,7 +6,7 @@ Prior to the selection of character race and class, it is necessary to determine
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
+Roll abilities, roll one selected ability 2d6+6, others 3d6 in order.
 
 ### Modifiers
 
@@ -31,16 +31,17 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OED, ability scores do not affect XP earned.
+**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility compared to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. 
 
-**Common**:Common represents the standard Human language of the region. 
+**Literacy**: PCs with intelligence of at least 10 are literate in their native language. For each 2 points of intelligence thereafter characters are literate in 1 additional language. 
 
-**Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
+**Common**: Common represents the standard Human language of the region. 
 
+**Alignment Languages** in OEDr we wont use alignment languages. Common is the lingua franca for both men and monsters though monsters typically speak with a heavy accent, a barely intelligible dialect or a creole.
  
 ## Alignment
 
@@ -50,10 +51,13 @@ OED features 3 alignment options:
 - *Neutral* beings seek a balance, or are simply disinterested.
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
+alignment is generally not a strict code of conduct and instead vaguely states a characters allegience to either human civilisation or monstrous polities.
 
 ## Race
 
-**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
+**Movement**: In OEDr Men and Elves a base speed of 6" (30'), Dwarves move at 5" (25') and Halflings at 4" (20') per round.
+
+**Vision**: in OEDr player character races do not have any special dark vision. This makes the dark far scarier, light sources more precious as well as a target for monsters, and creates a much more distinct demarcation between surface dwellers and the monsters of the deep.
 
 ### Humans
 
@@ -61,21 +65,23 @@ OED features 3 alignment options:
 
 ### Dwarves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
+**Special Abilities**: Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
+**Experience Gain**: -20%. Dwarves earn experience points at a slower rate than humans. This compensates for thier increased abilities and also represents their stubborness and conservatism slowing down their ability to learn new things.
 
 ### Elves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
+**Special Abilities**: Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and one other class.
+**Experience Gain**: -20%. Elves earn experience points at a slower rate than humans. This compensates for thier increased abilities and also represents their haughtiness and conservatism impeding their ability to learn new things.
 
 ### Halflings
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
+**Ability Scores**: Strength Capped at 8. If a higher score is rolled it is discarded and replaced with 8.
+
+**Hit Points**: Halflings always use a d4 for hit points regardless of their class.
 
 ## Class
 
@@ -91,7 +97,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |-------------------------------|
-  |1       |0            |1d8    |+1       |Swim (+2 in 6); Sweep Attacks|
+  |1       |0            |1d8    |+1       |Swim (+2 in 6); Subclass|
   |2       |2,000        |2d8    |+2       ||
   |3       |4,000        |3d8    |+3       ||
   |4       |8,000        |4d8    |+4       |Choose a Feat|
@@ -104,7 +110,14 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Swim**: Fighters gain a +2 in 6 to Swim.
 
-**Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
+**Subclass**: If the character begins the game as a Fighter they can choose one of the following subclasses at level 1. Characters multiclassing into fighter do not get a sub class.
+
+1. **Warrior**
+    - *Sweep Attacks*: Can melee attack a number of 1 HD opponents equal to their level in one round.
+2. **Ranger**
+    - *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
+3. **Hospitaller**
+    - *Lay on Hands:* Once per day a Hospitaller can cast this spell. This is a spell which allows the hospitaller to heal the sick and wounded. It works like a "cure light wounds" spell except it will heal a maximum of hit points equal to the hospitallers fighter level or cure one mundane sickness (viral or bacterial infection). It has a material cost of 10 silver pieces worth of powdered silver per hit point restored or sicknes cured.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
@@ -118,8 +131,9 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
 9.  *Toughness*: The character gains +2 hit points per level.
 10. *Tracking*: Track prey on a base 4 in 6 chance.
-11. *Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
+11. ~~*Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.~~
 12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
+13. *Sweep Attacks*: Can melee attack a number of 1 HD opponents equal to their level in one round.
 
 ### Thieves
 
@@ -183,11 +197,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
-**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
+**Spellbook**: Wizards start with a spellbook containing the *read magic* spell and one additional 1st level spell which can be chosen by the player during character creation. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level.
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
+**Spell Research**: Requires 1 week per spell level and a roll of *(d20 - spell level + Wizard Level + Int Modifier ≥ 20)*. Access to a library or other resources grant a +4 to the roll.
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
@@ -197,9 +211,7 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
-
-*Note*: Elves begin play as a member of the Wizard class and one other without needing to meet the above requirements.
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay XP (2000xp for Fighter, 1200xp for Thief, 2500XP for Wizard) to add the new class. 
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
@@ -209,9 +221,10 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 -   Uses best entry for Weapons.
 -   Uses best value for Attacks
 -   Uses highest class for Saves,
--   Keep a separate HP tally for each class and use the higher of the two for your character's HP.
+-   Keep a separate HP tally for each class and add them together for your character's HP.
 -   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
 -   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
--   Thief skills can only be used in Light (Leather) armor.
+-   Thief skills with the exceptions of *open locks and remove traps* can only be used in Light (Leather) armor.
+-   Only first level Wizards start with spells known. A character multiclassing into Wizard must learn spells from scrolls or found spellbooks.
 
 
