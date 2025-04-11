@@ -9,7 +9,7 @@ Many of us find the original game the purest, most playable, most DM-friendly ve
 ## What are the main modifications?
 
 -   All combat actions are rolled d20 + level + modifiers, with success on 20 or more (no tables!).
--   Wizards can't memorize duplicate spells (more variety!).
+-   Wizards must find new spells in the world (exciting exploration!).
 -   Clerics are removed (scarier undead and injuries!).
 -   Money is silver standard (more value for PC gold!).
 -   Encumbrance is historical stone unites (easier numbers!).

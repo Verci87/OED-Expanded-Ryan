@@ -8,7 +8,7 @@
 Piece in OED has the buying power of a GP in traditional sources. In
 published sources replace references to "gold pieces' with"silver
 pieces", keeping original amount. Silver becomes Copper, Platinum
-becomes Gold and so on.
+becomes Gold and so on. (When translation GP to SP costings from other materials, the value of Labour should stay as GP. ie. wages are 10x increased from RAW.)
 
 **Calculating Costs**: For items not listed, take the historical value
 in shillings and multiply by 3 for SP cost.
@@ -41,7 +41,7 @@ Weapons in OED fall into 3 categories, Light, Medium, and Heavy.
 Weapons have 5 main properties.
 
 - **Sword**: Can be drawn and used in a single round.
-- **Spear**: Can be used to attack from the 2nd rank (+5') reach)
+- **Spear**: Can be used to attack from the 2nd rank (+5') reach
 - **Axe**: +2 to hit targets in Medium/Heavy armor, or creatures with a
 tough hide (AC 5 or better)
 - **Club**: +4 to hit targets in Heavy armor, or creatures with a very
@@ -131,15 +131,24 @@ tough hide (AC 3 or better)
 
 ## Armor
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level or Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level of Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
 
-|Item                   |Cost (SP)  | AC          | Stone|
-|:----------------------|:----------|:-----------:|:----:|
-| Unarmored             | \--       |  9          |   \--|
-| Leather (Light)       | 15        |   7         |     1|
-| Chain Mail (Medium)   | 50        |   5         |     2|
-| Plate Mail (Heavy)    | 200       |   3         |     4|
-| Shield                | 10        |  -1         |     1|
-| Helmet                |10         | \*          |   1/3|
+Unarmoured combatants are very easily hit on a 6.
+
+|Item                   |Cost (SP)  | Up AC \* | Down AC \*    | Stone|
+|:----------------------|:----------|:---:  |:-----------:|:----:|
+| Unarmored             | \--       | 6     |   13        |   \--|
+| Cloth (Very Light)    | 10        | 10    |   9         |     1|
+| Leather (Light)       | 15        | 13    |   6         |     1|
+| Chain Mail (Medium)   | 50        | 15    |   4         |     2|
+| Plate Mail (Heavy)    | 200       | 17    |   2         |     4|
+| Shield                | 10        | +1 \* |   -1 \*     |     1|
+| Helmet                |10         | \*    |   \*        |   1/3|
 
 \* **Helmets**: A helmet gives a 50% chance (3-in-6) to neutralize a critical hit, turning it into a normal hit instead.
+
+\* **Shields**: If an unarmoured creature wields a shield their AC is 10. If a creature wearing armour wields a shield it adds +1 to their armour class.
+
+\* **Up AC**: This is the modern ascending armour class option.
+
+\* **Down AC**: This is the traditional descending armour class option.

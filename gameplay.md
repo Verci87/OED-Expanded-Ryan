@@ -33,13 +33,14 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 
 |Unit |Scale|
 |:---|:---|
-|1 round     |  10 seconds |
+|1 round     |  6 seconds |
 |1 turn      |  1 minute |
-|1" on table |  5 feet or 1"pace" |
+|1" on table |  5 feet or 1 "pace" or 2 Yards|
 
-**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 Con + *Bonus* minutes. A full sprint would be (240'), lasting for 1 plus Con + *Bonus* rounds. Walking is half (30').
+**Movement**: All player races move at a base rate of 30' per round, equivalent to a brisk walk. A jog is double this (60'). A run is triple (120'), sustainable for a 1 Con + *Bonus* minutes.
 
-**Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
+**Time**: ~~Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).~~ Use 10 minute dungeon turns B/X style. Most activities require 10 minutes such as searching a room, recovering after a combat and looting the bodies, listening at a door.
+
 
 ### Light and Vision
 
@@ -52,8 +53,7 @@ darkness clearly out to 1/2 the specified distance (30') and dimly out to
 the full listed distance (60'). It is spoiled when looking directly at a
 torch/fire source.
 
-**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They cannot make ranged attacks (see
-errant shots below), move at half speed, and suffer –1 to morale.
+**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They cannot make ranged attacks (see errant shots below), move at half speed, and suffer –1 to morale.
 
 ### Adventuring Tasks
 
@@ -89,7 +89,7 @@ rope results in a 1 in 20 chance for the rope to break.
 trap, etc. Listening can not be done while wearing a helmet.
 
 **Doff Armor**: It takes 1 round (each) to remove a shield, helm, or
-backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate
+backpack. Leather and Chain armor have a 2 in 6 chance per round. Plate
 requires 3 turns to remove with assistance.
 
 **Force a Door**: Limited to one character per door panel. Special tools
@@ -181,6 +181,7 @@ to attack rolls.
 
 -   Attacks to the target's rear: +2 to hit & To hit roll ignores shield
     AC.
+-   Target does not have a weapon drawn: +4 to hit in melee.    
 -   Attacker is silent or unseen: +4 to hit.
 -   Target is stunned, stationary: +4 to hit.
 -   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
@@ -194,8 +195,30 @@ the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, if succesful, then roll opposed Grapple (Strength) checks 
-(d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
+**Grappling**: Instead of attacking you may attempt to Grapple. Grapple is a kind of unarmed attack and goes last, after all normal weapon attacks.
+
+| size  | Mod |
+| --- | ---: |
+| small | -5 | 
+| medium  | 0 |
+| large | +5 |
+| larger | +5 each |
+
+*Grapple Attack PC*: (d20 + size + To Hit + Str Mod). 
+
+*Grapple Attack NPC*: (d20 + size + HD + 1/2HD). 
+
+*Grapple Defence PC*: (10 + size + To Hit + Str Mod).  
+
+*Grapple Defence NPC*: (10 + size + HD + 1/2HD). 
+
+ Roll a Grapple Attack VS opponents Grapple Defence. If attacker took damage from melee they minus the damage amount from their roll. If the attacker wins the check they make the defender immobile and can do one of the following:
+ 
+- make a normal attack with a weapon. Anything longer than a dagger is disadvantaged.
+- make an additional opposed Grapple check to throw the enemy to the ground prone. You can choose to let go or go prone with them to retain grapple.
+- drag the enemy with you on your next move if they dont break free
+
+The target must win a Grapple check on their turn to break free. The target can choose instead to simply attack the grappler, any weapon other than a dagger is at disadvantage. 
 
 **Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
 
@@ -204,22 +227,27 @@ are assessed with a raw d20 roll that ignores attacker skill and range modifiers
 **Zero Hit Points**: When a character reaches or goes below 0 Hit
 Points, they must immediately make a Save vs Death. Failure means the
 character is Dead. Success results in the character stabilizing at 0HP,
-waking in 1d6 turns, in an incapacitated state. Any healing (returning
-the character to 1 HP) will restore normal activity.
+waking in 1d6 turns, in an incapacitated state. The character must roll on the lingering injury table.
+Any healing (returning the character to 1 HP) will restore normal activity.
 
-**Natural Healing**: Creatures regain a number of Hit Points equal to
-Level (Hit Dice) + Con *Bonus* per week of rest and comfort. The
-creature can not undergo other meaningful activities.
+**Natural Healing**: Creatures regain 1 hit point per full day of rest outside of a safe town (eg. while in the wilderness or dungeon).
+
+Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con *Bonus* per full day of rest and comfort in a safe town. The creature can not undergo other meaningful activities.
+
+Creatures regain a number of Hit Points equal to (2 x Level (Hit Dice) + Con *Bonus*) per full day of rest and comfort in a hospital (mostly found at temples of religious orders dedicated to gods of healing). The creature can not undergo other meaningful activities.
 
 **Magical Healing**: The only common source of magical healing in OED
 are potions of healing and potions of mithridate (neutralize poison)
 which are available from Wizards and NPC Alchemists. There is no common
 source of regeneration, resurrection, or restoration magic.
 
-**Character Death**: Players can bring in a new 1st level character at
-the completion of current combat/activity.
+Priests and some wizards do have healing magic but all priestly magic has a cost, even simple healing spells. Resurrection, restoration and regeneration magic is extremely costly, requires rare components and often requires sacrifice.
+
+**Character Death**: Players can take control of a retainer or henchman for the remainder of the session.
 
 ## Spells
+
+### Wizard Spells
 
 OED makes the below spells available to the Wizard class. Spell
 attributes and effects have been standardized and are available in the
@@ -267,3 +295,51 @@ attributes and effects have been standardized and are available in the
 - Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
 - “Man-size” creatures are those of 1 HD (base, without class levels).
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
+
+
+### Cleric Spells
+
+Clerics are not present as a class in OED but priests, religious orders and esotericists abound. Most magic in the world is done by Priests, in temples, in a highly regulated fashion; Wizards are generally rare and considered unregulated and dangerous.
+
+The Cleric spells still exist in the game but are treated like arcane spells in terms of the way they are learned and cast; with the exception that in addition to any other stipulated requirements, they require powdered silver as a material component which they consume; of an amount costing (spell level x spell level x 200 silver)
+
+### 1st Level
+
+1. Cure Light Wounds
+2. Purify Food & Water
+3. Detect Magic
+4. Detect Evil
+5. Protection/Evil
+6. Light
+
+### 2nd Level
+
+1. Find Traps
+2. Hold Person
+3. Bless
+4. Speak with Animals
+
+### 3rd Level
+
+1. Remove Curse
+2. Cure Disease
+3. Locate Object
+4. Continual Light
+
+### 4th Level
+
+1. Neutralize Poison
+2. Cure Serious Wounds
+3. Protection/Evil, 10'r.
+4. Turn sticks to snakes
+5. Speak with plants
+6. Create Water
+
+### 5th Level
+
+1. Dispell Evil
+2. Raise Dead
+3. Commune
+4. Quest
+5. Insect Plague
+6. Create Food
