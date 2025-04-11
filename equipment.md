@@ -8,7 +8,7 @@
 Piece in OED has the buying power of a GP in traditional sources. In
 published sources replace references to "gold pieces' with"silver
 pieces", keeping original amount. Silver becomes Copper, Platinum
-becomes Gold and so on.
+becomes Gold and so on. (When translation GP to SP costings from other materials, the value of Labour should stay as GP. ie. wages are 10x increased from RAW.)
 
 **Calculating Costs**: For items not listed, take the historical value
 in shillings and multiply by 3 for SP cost.
@@ -135,7 +135,7 @@ Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), a
 
 Unarmoured combatants are very easily hit on a 6.
 
-|Item                   |Cost (SP)  | up AC | down AC     | Stone|
+|Item                   |Cost (SP)  | Up AC \* | Down AC \*    | Stone|
 |:----------------------|:----------|:---:  |:-----------:|:----:|
 | Unarmored             | \--       | 6     |   13        |   \--|
 | Cloth (Very Light)    | 10        | 10    |   9         |     1|
@@ -148,3 +148,7 @@ Unarmoured combatants are very easily hit on a 6.
 \* **Helmets**: A helmet gives a 50% chance (3-in-6) to neutralize a critical hit, turning it into a normal hit instead.
 
 \* **Shields**: If an unarmoured creature wields a shield their AC is 10. If a creature wearing armour wields a shield it adds +1 to their armour class.
+
+\* **Up AC**: This is the modern ascending armour class option.
+
+\* **Down AC**: This is the traditional descending armour class option.
