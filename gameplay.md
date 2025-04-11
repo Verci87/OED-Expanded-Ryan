@@ -41,7 +41,6 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 
 **Time**: ~~Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).~~ Use 10 minute dungeon turns B/X style. Most activities require 10 minutes such as searching a room, recovering after a combat and looting the bodies, listening at a door.
 
-
 ### Light and Vision
 
 **Lighting**: Torches and lanterns shed good light out to 30', and dim
@@ -104,6 +103,7 @@ pips or greater you sink (see Drowning/Suffocation). You may swim at
 full speed with a -2 to the check.
 
 ### Hazards
+
 In general, all spells and harmful effects should require an attack or
 allow some form of saving throw to either negate the effect or result in
 half effect/damage.
@@ -156,12 +156,12 @@ order.
 in that order. The following actions *disallow* movement during that
 round:
 
--   Casting a Spell
--   Set a Pike
--   Retrieve a Scroll
--   Use a Retrieved Scroll
--   Retrieve and Use a Potion
--   Ranged Attacks (unless a weapon thrown in the same direction as the
+- Casting a Spell
+- Set a Pike
+- Retrieve a Scroll
+- Use a Retrieved Scroll
+- Retrieve and Use a Potion
+- Ranged Attacks (unless a weapon thrown in the same direction as the
     character's movement)
 
 **Fleeing**: A creature can flee combat and does not draw a free attack
@@ -171,54 +171,54 @@ at its back, but does suffer the penalty for attacks to the rear.
 without turning their back on the enemy, preventing an attack against
 the rear flank.
 
-**Critical Hits**: In most cases, a natural 1 is an automatic miss, 
-and 20 an automatic hit (DM rules on impossible cases). 
-The former may give a chance for a fumble; the latter does double damage 
+**Critical Hits**: In most cases, a natural 1 is an automatic miss,
+and 20 an automatic hit (DM rules on impossible cases).
+The former may give a chance for a fumble; the latter does double damage
 (roll twice with bonuses).
 
 **Combat Modifiers**: The following situational modifiers may be added
 to attack rolls.
 
--   Attacks to the target's rear: +2 to hit & To hit roll ignores shield
+- Attacks to the target's rear: +2 to hit & To hit roll ignores shield
     AC.
--   Target does not have a weapon drawn: +4 to hit in melee.    
--   Attacker is silent or unseen: +4 to hit.
--   Target is stunned, stationary: +4 to hit.
--   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
+- Target does not have a weapon drawn: +4 to hit in melee.
+- Attacker is silent or unseen: +4 to hit.
+- Target is stunned, stationary: +4 to hit.
+- Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
     full damage.
 
 **Shots at Groups**: When firing at a specific individual in a crowd, if
 the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 *not* AC) is less than 10, it misses the (man-size) target.
 
-**Errant Shots**: Ranged attack rolls (as above) below 10 miss the target, 
-but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
+**Errant Shots**: Ranged attack rolls (as above) below 10 miss the target,
+but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
 **Grappling**: Instead of attacking you may attempt to Grapple. Grapple is a kind of unarmed attack and goes last, after all normal weapon attacks.
 
 | size  | Mod |
 | --- | ---: |
-| small | -5 | 
+| small | -5 |
 | medium  | 0 |
 | large | +5 |
 | larger | +5 each |
 
-*Grapple Attack PC*: (d20 + size + To Hit + Str Mod). 
+*Grapple Attack PC*: (d20 + size + To Hit + Str Mod).
 
-*Grapple Attack NPC*: (d20 + size + HD + 1/2HD). 
+*Grapple Attack NPC*: (d20 + size + HD + 1/2HD).
 
 *Grapple Defence PC*: (10 + size + To Hit + Str Mod).  
 
-*Grapple Defence NPC*: (10 + size + HD + 1/2HD). 
+*Grapple Defence NPC*: (10 + size + HD + 1/2HD).
 
  Roll a Grapple Attack VS opponents Grapple Defence. If attacker took damage from melee they minus the damage amount from their roll. If the attacker wins the check they make the defender immobile and can do one of the following:
- 
+
 - make a normal attack with a weapon. Anything longer than a dagger is disadvantaged.
 - make an additional opposed Grapple check to throw the enemy to the ground prone. You can choose to let go or go prone with them to retain grapple.
 - drag the enemy with you on your next move if they dont break free
 
-The target must win a Grapple check on their turn to break free. The target can choose instead to simply attack the grappler, any weapon other than a dagger is at disadvantage. 
+The target must win a Grapple check on their turn to break free. The target can choose instead to simply attack the grappler, any weapon other than a dagger is at disadvantage.
 
 **Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
 
@@ -272,7 +272,6 @@ attributes and effects have been standardized and are available in the
 |                         |15\. Web                  |15\. Suggestion              |
 |                         |16\. Wizard Lock          |16\. Water Breathing         |
 
-
 |**Level 4**              |**Level 5**               |**Level 6**                  |
 |:------------------------|:-------------------------|:----------------------------|
 |1\. Charm Monster        |1\. Animal Growth         |1\. Antimagic Sphere         |
@@ -291,11 +290,10 @@ attributes and effects have been standardized and are available in the
 |14\. Wizard Eye          |14\. Wall of Stone        |                             |
 
 - Spells generally need line-of-sight to their target point.
-- All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells). 
+- All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells).
 - Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
 - “Man-size” creatures are those of 1 HD (base, without class levels).
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
-
 
 ### Cleric Spells
 
