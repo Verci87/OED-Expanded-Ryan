@@ -112,11 +112,13 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Subclass**: Fighters can choose one of the following subclasses at level 1
 
-1.  *Warrior*
+1. **Warrior**
     - Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
-2.  *Ranger*
+2. **Ranger**
     - Heightened Senses: Rangers get a +1 in 6 bonus to surprise rolls and grant a -1 in 6 malus to enemy surprise rolls.
     - Pathfinder: Rangers get a +1 in 6 bonus to navigation rolls (to avoid getting lost)
+3. **Hospitaller**
+    - *Lay on Hands:* Once per day a Hospitaller can cast this spell. This is a spell which allows the hospitaller to heal the sick and wounded. It works like a "cure light wounds" spell except it will heal a maximum of hit points equal to the hospitallers fighter level or cure one mundane sickness (viral or bacterial infection). It has a material cost of 10 silver pieces worth of powdered silver per hit point restored or sicknes cured.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
