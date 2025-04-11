@@ -113,9 +113,19 @@ called one “pace”).^14
 
 See the matrix below for melee weapon damage and special effects.^17
 
+
+| Type | Light | Medium | Heavy |
+|---|---|---|---|
+|Sword |Dagger (1d4)| Sword (1d8)| 2-H Sword (1d10)|
+|Spear |Spear (1d6) |Polearm (1d8) |Lance/Pike (1d8) *|
+|Axe |Hand Axe (1d6) |Battle Axe (1d8) |Halberd (1d10)|
+|Club| Mace (1d6) |Morning Star (1d8) |Flail (1d8) **|
+
 **Types** : Swords can be drawn and used in a single round. Spears can be used to
 attack from a second rank. Axes get +2 to hit targets in medium or heavy armor.
 Clubs get +4 to hit heavy armor.^18
+
+**Length**: The longer your weapon, the higher in initiative order you attack. Spears go before swords, swords go before axes, axes go before daggers.
 
 **Sizes** : Light weapons are one-handed, and can be thrown up to 60 feet (12”).
 Medium weapons are one-handed for man-sized creatures (except polearms).
@@ -139,33 +149,24 @@ light melee weapons, normal swords, slings, and light crossbows.^22
 invisible, elven cloak) add +2. Silenced parties (motionless, undead, move
 silently) add +2. Warning (e.g., light, noise, magic detection) foils surprise.^23
 
-**Initiative** : Roll d6 initiative for each side; play goes around the table. On each
-player's turn they can move, then attack, in that order. Figures must stand still to
-cast spells, fire missiles, or set pikes.^24
+**Initiative** : Creatures act simultaneously. Each side declares actions and the DM resolves. Combat goes in phases; move, shoot, magic, melee. Figures must stand still to cast spells, fire missiles, or set pikes.^24
 
-**Attacks** : Attacks are made by rolling d20 + attack bonus +
-AC of target and scoring 20 or more. Monsters use their hit
-dice for attack bonus.
+**Descending AC Attacks** : Attacks are made by rolling d20 + attack bonus + AC of target and scoring 20 or more. Monsters use their hit dice for attack bonus.
+
+**Ascending AC Attacks** : Attacks are made by rolling d20 + attack bonus and scoring equal to or higher than the targets AC.
 
 **Saves** : Saving throws are made by rolling d20 + level +
 modifiers (see table) and scoring 20 or more.^25
 
-```
-Type Modifier
-Spells 0
-Breath +
-Stone +
-Wands +
-Death +
-```
-```
-Size
-Type Light Medium Heavy
-Sword Dagger (1d4) Sword (1d8) 2-H Sword (1d10)
-Spear Spear (1d6) Polearm (1d8) Lance/Pike (1d8) *
-Axe Hand Axe (1d6) Battle Axe (1d8) Halberd (1d10)
-Club Mace (1d6) Morning Star (1d8) Flail (1d8) **
-```
+
+|Type   | Modifier |
+|---    |---       |
+|Spells | 0 |
+|Breath |+1 |
+|Stone  |+2 |
+|Wands  |+3 |
+|Death  |+4 |
+
 
 #### FIGHTER FEATS
 
@@ -185,24 +186,23 @@ Club Mace (1d6) Morning Star (1d8) Flail (1d8) **
 9. **Toughness** : Add an extra +2 hit points per level.
 10. **Tracking** : Track prey on a 4-in-6 chance basis, adjusted for small or
     large parties, inclement weather, and the like.
-11. **Two Weapon Fighting** : Fight with a light weapon in the off hand, for
-    either +2 AC, or an extra attack at –2 to hit each round.^28
+11. **Scout** : Gain +1 to surprise enemies and +1 to avoid being surprised
 12. **Weapon Specialization** : Gain +2 to hit and damage with one weapon
     of choice.
+13. **Sweep Attacks** : Can melee attack a number of 1 HD opponents equal to their level in one round.
 
 #### MULTI-CLASSING
 
-**Adding Classes** : Elves automatically start with the wizard class, plus one more
-of their choice. To add a new class, a character needs a score of 16 or more in
-the new prime requisite, and must sacrifice 1,000 XP.^29
+**Adding Classes** : To add a new class, a character needs a score of 16 or more in
+the new prime requisite, and must sacrifice F2000XP, T1200XP, W2500XP.^29
 
 **Experience** : After each adventure, the character applies all earned XP to a
-single class of their choice.^30
+single class of their choice. Elves and Dwarves gain -20%. ^30
 
 **Benefits** : The multi-classed character uses the best entry for armor, weapons,
 attacks, and saves. Hit points are rolled for each class, with the highest being
 used. Fighter/wizards may cast spells in leather or chain (melee weapon in one
-hand, no shield). Thief skills are restricted to leather armor only.^31
+hand, no shield). Some Thief skills are restricted to leather armor only.^31
 
 ### Original Edition Delta is compatible with Original
 
@@ -214,6 +214,8 @@ hand, no shield). Thief skills are restricted to leather armor only.^31
 
 
 #### NOTES AND REFERENCES
+
+This document has been modified by Ryan for his OEDr game.
 
 1. This document is available for free at [http://www.oedgames.com.](http://www.oedgames.com.) These endnotes
     are intended for (a) DMs who want to check on reasoning, justifications, and
