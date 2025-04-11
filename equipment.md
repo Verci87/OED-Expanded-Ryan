@@ -131,15 +131,20 @@ tough hide (AC 3 or better)
 
 ## Armor
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level or Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level of Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
 
-|Item                   |Cost (SP)  | AC          | Stone|
-|:----------------------|:----------|:-----------:|:----:|
-| Unarmored             | \--       |  9          |   \--|
-| Leather (Light)       | 15        |   7         |     1|
-| Chain Mail (Medium)   | 50        |   5         |     2|
-| Plate Mail (Heavy)    | 200       |   3         |     4|
-| Shield                | 10        |  -1         |     1|
-| Helmet                |10         | \*          |   1/3|
+Unarmoured combatants are very easily hit on a 6.
+
+|Item                   |Cost (SP)  | up AC | down AC     | Stone|
+|:----------------------|:----------|:---:  |:-----------:|:----:|
+| Unarmored             | \--       | 6     |   13        |   \--|
+| Cloth (Very Light)    | 10        | 10    |   9         |     1|
+| Leather (Light)       | 15        | 13    |   6         |     1|
+| Chain Mail (Medium)   | 50        | 15    |   4         |     2|
+| Plate Mail (Heavy)    | 200       | 17    |   2         |     4|
+| Shield                | 10        | +1 \* |   -1 \*     |     1|
+| Helmet                |10         | \*    |   \*        |   1/3|
 
 \* **Helmets**: A helmet gives a 50% chance (3-in-6) to neutralize a critical hit, turning it into a normal hit instead.
+
+\* **Shields**: If an unarmoured creature wields a shield their AC is 10. If a creature wearing armour wields a shield it adds +1 to their armour class.
