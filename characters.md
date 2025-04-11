@@ -31,7 +31,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility in relation to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
+**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility compared to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
 
 ## Languages
 
