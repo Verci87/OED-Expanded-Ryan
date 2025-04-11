@@ -431,7 +431,7 @@ caster can affect a mass up to 12 feet long and 3 feet in diameter.
 
 # Cleric Spells
 
-these spells were already listed in [x-campaign-material\arcana obscura](#Arcana-Obscura)
+these spells were already listed in x-campaign-material\arcana obscura
 
 ## 1st Level:
 
