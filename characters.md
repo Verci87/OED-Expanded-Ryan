@@ -31,7 +31,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OED, ability scores do not affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility in relation to humans. Calculate the XP for all each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
+**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility in relation to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
 
 ## Languages
 
@@ -55,7 +55,7 @@ alignment is generally not a strict code of conduct and instead vaguely states a
 
 ## Race
 
-**Movement**: In OED Men and Elves a base speed of 6" (30'), Dwarves move at 5" (25') and Halflings at 4" (20') per round.
+**Movement**: In OEDr Men and Elves a base speed of 6" (30'), Dwarves move at 5" (25') and Halflings at 4" (20') per round.
 
 **Vision**: in OEDr player character races do not have any special dark vision. This makes the dark far scarier, light sources more precious as well as a target for monsters, and creates a much more distinct demarcation between surface dwellers and the monsters of the deep.
 
@@ -110,7 +110,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Swim**: Fighters gain a +2 in 6 to Swim.
 
-**Subclass**: Fighters can choose one of the following subclasses at level 1
+**Subclass**: If the character begins the game as a Fighter they can choose one of the following subclasses at level 1. Characters multiclassing into fighter do not get a sub class.
 
 1. **Warrior**
     - Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
@@ -196,7 +196,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
   |16      |1,800,000    |11d4+5   |+8       |Spells: 5 5 5 5 5 5|
   |16+     |(+300,000)   |(+1)     |(+1/2)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
 
-**Spell Casting**: "Vancian" magic; 
+**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
 **Spellbook**: Wizards start with a spellbook containing the *read magic* spell and one additional 1st level spell which can be chosen by the player during character creation. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
@@ -222,10 +222,10 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 -   Uses best entry for Weapons.
 -   Uses best value for Attacks
 -   Uses highest class for Saves,
--   Keep a separate HP tally for each class and use the higher of the two for your character's HP.
+-   Keep a separate HP tally for each class and add them together for your character's HP.
 -   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
 -   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
--   Thief skills can only be used in Light (Leather) armor.
+-   Thief skills with the exceptions of *open locks and remove traps* can only be used in Light (Leather) armor.
 -   Only first level Wizards start with spells known. A character multiclassing into Wizard must learn spells from scrolls or found spellbooks.
 
 
