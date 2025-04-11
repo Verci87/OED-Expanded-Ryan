@@ -111,10 +111,15 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 **Swim**: Fighters gain a +2 in 6 to Swim.
 
 **Subclass**: Fighters can choose one of the following subclasses at level 1
+
 1.  *Warrior*
+
     - Sweep Attacks: Warriors can melee attack a number of 1 HD opponents equal to their level in one round.
+
 2.  *Ranger*
+
     - Heightened Senses: Rangers get a +1 in 6 bonus to surprise rolls and grant a -1 in 6 malus to enemy surprise rolls.
+    
     - Pathfinder: Rangers get a +1 in 6 bonus to navigation rolls (to avoid getting lost)
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
