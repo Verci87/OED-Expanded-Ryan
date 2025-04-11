@@ -1,47 +1,50 @@
-# ORIGINAL EDITION DELTA ~Ryan Edit~
+# ORIGINAL EDITION DELTA ~Ryan Edit~  
 
-## House Rules Compatible With Original D&D 
+## House Rules Compatible With Original D&D   
 
-## PLAYER’S RULES (V. 1.0.7.R)
+## PLAYER’S RULES (V. 1.0.7.R)  
 
-#### RACES  
+#### RACES
 
-**Humans** : Full XP gain ^2  
+- **Humans**: Full XP gain ^2^  
 
-**Dwarves** : -20% XP gain, resist magic +4, dodge giants +4, find stone traps +1.  
+- **Dwarves**: -20% XP gain, resist magic +4, dodge giants +4, find stone traps +1.  
 
-**Elves** : -20% XP gain, hide in woods (4 in 6), find wood traps +1, party avoids surprise on +1 in 6.  
+- **Elves**: -20% XP gain, hide in woods (4 in 6), find wood traps +1, party avoids surprise on +1 in 6.  
 
-**Halflings** : Hide in woods (4 in 6), resist magic +4, ranged attacks +4. Strength capped at 8. Hit Dice always d4. ^3^  
+- **Halflings**: Hide in woods (4 in 6), resist magic +4, ranged attacks +4. Strength capped at 8. Hit Dice always d4. ^3^  
+
 
 #### CLASSES  
 
-**Fighters** : Use heavy armor, all weapons, fighter feats; attack bonus +1, hit points d8 per level (hp +3/level after name).  
+- **Fighters** : Use heavy armor, all weapons, fighter feats; attack bonus +1, hit points d8 per level (hp +3/level after name).  
 
-**Thieves** : Use light armor, light weapons, thief skills; attack bonus +2/3, hit points d6 per level (hp +2/level after name).  
+- **Thieves** : Use light armor, light weapons, thief skills; attack bonus +2/3, hit points d6 per level (hp +2/level after name).  
 
-**Wizards** : Use no armor, dagger only, magic spells; attack bonus +1/2, hit points
-d4 per level (hp +1/level after name). ^4^  
+- **Wizards** : Use no armor, dagger only, magic spells; attack bonus +1/2, hit points d4 per level (hp +1/level after name). ^4^  
+
 
 #### ALIGNMENT  
 
-**Three Alignments** : Lawful, Neutral, or Chaotic. New characters should list either
+
+**Three Alignments**: Lawful, Neutral, or Chaotic. New characters should list either
 Lawful or Neutral (if Chaotic, secretly inform the DM).^5^  
+
 
 #### ABILITIES
 
-**Random Abilities** : At first level, roll one selected ability 2d6+6, others 3d6 in
-order. For starting hit dice, re-roll any results of “1” or “2”.^6^  
+**Random Abilities**: At first level, roll one selected ability 2d6+6, others 3d6 in
+order. For starting hit dice, re-roll any results of “1” or “2”.
 
 #### EQUIPMENT  
 
-**Starting Money** : Starting money (3d6×10) and equipment prices are in silver
+**Starting Money**  Starting money (3d6×10) and equipment prices are in silver
 pieces. Chain mail costs 50, plate 200; a silver dagger 30, potion of healing 200,
 potion of mithridate 1000; rumors 10-60, ads for hires 100 sp each.^7^  
 
 #### TARGET 20  
 
-**Core Mechanic** : For most combat actions, roll d20 + level + modifiers, with
+**Core Mechanic**: For most combat actions, roll d20 + level + modifiers, with
 success indicated on a total of 20 or more.^8  
 
 
