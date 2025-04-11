@@ -30,6 +30,8 @@ secret and add it mentally after the player announces their roll; note
 that using the classic descending AC means that the better the armor,
 the less an attacker gets to add.
 
+**note: i'm planning to use ascending AC. it's not as elegent as target 20 but it's much simpler for 5e scrubs.**
+
 ## Saving Throws
 
 Saving throws work likewise: **roll d20 + character level + modifiers**
