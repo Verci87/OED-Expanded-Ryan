@@ -23,7 +23,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |--------|---|
 |0-2     |-3 |
 |3-5     |-2 |
-|6-8     |-1 | 
+|6-8     |-1 |
 |9-12    | 0 |
 |13-15   |+1 |
 |16-18   |+2 |
@@ -31,18 +31,18 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24   |+4 |
 |Every 3 |(+1) |
 
-**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility compared to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp.
+**Experience Points**: In OEDr, ability scores **do not** affect XP earned. Elves and Dwarves earn 20% less XP than humans. This represents their conservative cultures and general inflexibility compared to humans. Calculate the XP for each party member at the end of an adventure as normal and then reduce by 20% the Elf or Dwarfs earned XP. ie. an Elf or Dwarf requires 100 sp to earn 80 xp. Experience points are primarily earned by returning to a safe haven (usually a town or stronghold) with loot. For each silver piece worth of loot the characters earn 1 experience point.
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. 
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.
 
-**Literacy**: PCs with intelligence of at least 10 are literate in their native language. For each 2 points of intelligence thereafter characters are literate in 1 additional language. 
+**Literacy**: PCs with intelligence of at least 10 are literate in their native language. For each 2 points of intelligence thereafter characters are literate in 1 additional language.
 
-**Common**: Common represents the standard Human language of the region. 
+**Common**: Common represents the standard Human language of the region.
 
 **Alignment Languages** in OEDr we wont use alignment languages. Common is the lingua franca for both men and monsters though monsters typically speak with a heavy accent, a barely intelligible dialect or a creole.
- 
+
 ## Alignment
 
 OED features 3 alignment options:
@@ -121,15 +121,15 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
 
-1.  *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
-2.  *Exceptional Strength*: The character adds +3 to Strength.
-3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
-4.  *Iron Will*: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
-5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks against being unhorsed.
-6.  *Rapid Shot*: Add one attack per round with any missile weapon.
-7.  *Rapid Strike*: Add one attack every OTHER round with any melee weapon.
-8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
-9.  *Toughness*: The character gains +2 hit points per level.
+1. *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
+2. *Exceptional Strength*: The character adds +3 to Strength.
+3. *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
+4. *Iron Will*: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
+5. *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks against being unhorsed.
+6. *Rapid Shot*: Add one attack per round with any missile weapon.
+7. *Rapid Strike*: Add one attack every OTHER round with any melee weapon.
+8. *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
+9. *Toughness*: The character gains +2 hit points per level.
 10. *Tracking*: Track prey on a base 4 in 6 chance.
 11. ~~*Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.~~
 12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
@@ -203,7 +203,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Research**: Requires 1 week per spell level and a roll of *(d20 - spell level + Wizard Level + Int Modifier ≥ 20)*. Access to a library or other resources grant a +4 to the roll.
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
+**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s).
 
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
@@ -211,20 +211,18 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay XP (2000xp for Fighter, 1200xp for Thief, 2500XP for Wizard) to add the new class. 
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay XP (2000xp for Fighter, 1200xp for Thief, 2500XP for Wizard) to add the new class.
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
 **Benefits of Multiclassing**:
 
--   Uses best entry for Armor.
--   Uses best entry for Weapons.
--   Uses best value for Attacks
--   Uses highest class for Saves,
--   Keep a separate HP tally for each class and add them together for your character's HP.
--   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
--   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
--   Thief skills with the exceptions of *open locks and remove traps* can only be used in Light (Leather) armor.
--   Only first level Wizards start with spells known. A character multiclassing into Wizard must learn spells from scrolls or found spellbooks.
-
-
+- Uses best entry for Armor.
+- Uses best entry for Weapons.
+- Uses best value for Attacks
+- Uses highest class for Saves,
+- Keep a separate HP tally for each class and add them together for your character's HP.
+- Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
+- Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
+- Thief skills with the exceptions of *open locks and remove traps* can only be used in Light (Leather) armor.
+- Only first level Wizards start with spells known. A character multiclassing into Wizard must learn spells from scrolls or found spellbooks.
