@@ -212,7 +212,7 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class. 
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay XP (2000xp for Fighter, 1200xp for Thief, 2500XP for Wizard) to add the new class. 
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
