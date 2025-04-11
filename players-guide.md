@@ -1,8 +1,8 @@
-# ORIGINAL EDITION DELTA
+# ORIGINAL EDITION DELTA ~Ryan Edit~
 
-## House Rules Compatible With Original D&D
+## House Rules Compatible With Original D&D 
 
-## PLAYER’S RULES (V. 1.0.7)
+## PLAYER’S RULES (V. 1.0.7.R)
 
 #### RACES
 
